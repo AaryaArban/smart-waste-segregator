@@ -2,6 +2,8 @@
 
 ![Smart Waste Segregation System](https://github.com/user-attachments/assets/bc8751f8-2d86-4d94-96bd-1796fe8ec608)
 
+[🎥 Watch Demo Video](https://user-images.githubusercontent.com/username/unique-id/demo.mp4)
+
 ## **📌 Overview**
 
 This project presents the design and implementation of an **Automated Waste Segregation Model** that efficiently classifies waste into three categories: **dry, wet, and metallic**. By integrating **moisture sensors, proximity sensors, and infrared (IR) sensors**, the system automates waste sorting. A **microcontroller (Arduino)** processes sensor data and controls **servo motors** to direct waste into designated bins. The model also incorporates **real-time feedback** through **Serial Bluetooth Terminal** and **IoT connectivity** for remote monitoring.
