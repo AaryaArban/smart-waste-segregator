@@ -67,7 +67,7 @@ cd smart-waste-segregator
 
 ### **3️⃣ Upload Code to Arduino:**
 
-* Open `waste_segregation.ino` in Arduino IDE.
+* Open `sensor-project.ino` in Arduino IDE.
   
 * Select the correct **Board** (`Arduino Uno`) and **Port**.
   
