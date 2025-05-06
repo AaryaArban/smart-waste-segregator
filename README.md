@@ -1,6 +1,6 @@
 # **Automated Waste Segregation Model**
 
-![Waste Segregation System]([https://drive.google.com/file/d/1FbFkHamfmmm9l8lyEi584hEMDRWFY2VD/view?usp=drive_link]) 
+![Smart Waste Segregation System](https://drive.google.com/uc?export=view&id=1FbFkHamfmmm9l8lyEi584hEMDRWFY2VD)
 
 ## **📌 Overview**
 
