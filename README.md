@@ -1,6 +1,6 @@
 # **Automated Waste Segregation Model**
 
-![Smart Waste Segregation System](https://drive.google.com/file/d/1FbFkHamfmmm9l8lyEi584hEMDRWFY2VD/view?usp=sharing)
+![Smart Waste Segregation System](https://github.com/user-attachments/assets/bc8751f8-2d86-4d94-96bd-1796fe8ec608)
 
 ## **📌 Overview**
 
@@ -101,7 +101,7 @@ cd smart-waste-segregator
 
 ## **📷 Circuit Diagram & Hardware Setup**
 
-*(Add a wiring diagram or circuit schematic here.)*
+![circuit](https://github.com/user-attachments/assets/9b390c42-938e-4eec-94c5-df0005e59ee6)
 
 ## **🔬 Experimental Results & Accuracy**
 
