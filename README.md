@@ -1,6 +1,6 @@
 # **Automated Waste Segregation Model**
 
-![Waste Segregation System](https://via.placeholder.com/800x400?text=Project+Image) *(Replace with an actual image of your project if available.)*
+![Waste Segregation System]([https://drive.google.com/file/d/1FbFkHamfmmm9l8lyEi584hEMDRWFY2VD/view?usp=drive_link]) 
 
 ## **📌 Overview**
 
